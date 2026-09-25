@@ -1,0 +1,9 @@
+2026-06-12 01:40:00 INFO  Connection pool initialized (size=20)
+2026-06-12 01:50:12 INFO  Connection pool at 60% utilization
+2026-06-12 01:59:33 WARN  Slow query detected (query_id=8841, 4.2s)
+2026-06-12 02:00:05 ERROR Database connection timeout after 30s
+2026-06-12 02:05:41 WARN  Connection pool at 95% utilization
+2026-06-12 02:07:18 INFO  Connection pool recycled
+2026-06-12 02:10:52 ERROR Database connection timeout after 30s
+2026-06-12 02:15:00 WARN  Slow query detected (query_id=8842, 6.8s)
+2026-06-12 02:19:27 INFO  Connection pool at 40% utilization
